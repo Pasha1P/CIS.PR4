@@ -1,0 +1,51 @@
+C:\Users\User\source\repos\ПР4\ПР4\bin\Debug\ПР4.exe.config
+C:\Users\User\source\repos\ПР4\ПР4\bin\Debug\ПР4.exe
+C:\Users\User\source\repos\ПР4\ПР4\bin\Debug\ПР4.pdb
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.Form1.resources
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.Form2.resources
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.Form3.resources
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.Properties.Resources.resources
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.exe
+C:\Users\User\source\repos\ПР4\ПР4\obj\Debug\ПР4.pdb
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\bin\Debug\ПР4.exe.config
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\bin\Debug\ПР4.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\bin\Debug\ПР4.pdb
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.csproj.AssemblyReference.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.Form1.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.Form2.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.Form3.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.Properties.Resources.resources
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.csproj.GenerateResource.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.exe
+D:\Users\1213-14\Documents\2-ИСП\Разр. КИС\Погудин\ПР4\ПР4\obj\Debug\ПР4.pdb
+C:\Users\User\Downloads\ПР4\ПР4\bin\Debug\ПР4.exe.config
+C:\Users\User\Downloads\ПР4\ПР4\bin\Debug\ПР4.exe
+C:\Users\User\Downloads\ПР4\ПР4\bin\Debug\ПР4.pdb
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.Form1.resources
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.Form2.resources
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.Form3.resources
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.Properties.Resources.resources
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.exe
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.pdb
+C:\Users\User\Downloads\ПР4\ПР4\obj\Debug\ПР4.Form4.resources
+C:\Users\User\source\repos\CIS.PR4\ПР4\bin\Debug\ПР4.exe.config
+C:\Users\User\source\repos\CIS.PR4\ПР4\bin\Debug\ПР4.exe
+C:\Users\User\source\repos\CIS.PR4\ПР4\bin\Debug\ПР4.pdb
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.Form1.resources
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.Form2.resources
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.Form3.resources
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.Form4.resources
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.Properties.Resources.resources
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.exe
+C:\Users\User\source\repos\CIS.PR4\ПР4\obj\Debug\ПР4.pdb
